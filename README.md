@@ -1,0 +1,1 @@
+This repository demonstrates a common off-by-one error in COBOL programming. The bug.cob file contains the erroneous code, while bugSolution.cob provides the corrected version. The error stems from an incorrect loop condition in a PERFORM statement, resulting in an inaccurate sum calculation. This example highlights the importance of careful loop boundary checking in COBOL.
